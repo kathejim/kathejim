@@ -2,11 +2,11 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=400&color=2388C8&center=true&vCenter=true&width=435&height=80&lines=Hello%2C+World!;%C2%A1Hola%2C+Mundo!;Salut%2C+le+Monde+!;Hallo%2C+Welt!;Oi%2C+Mundo!;Ciao%2C+Mondo!" alt="Typing SVG" /></a></p>
 
-<h4 align="center" style="font-family: 'roboto';">I'm Kathe, a passionate engineer learning programming.</h4>
+<h4 align="center" style="font-family: 'roboto';">I'm Kathe 👋.</h4>
 <hr>
-
-🖥️ I’m currently working on *Sign-up form*<br>
-📘 I’m currently learning with *The Oding Project | Google IT Support Professional*<br>
+👤 A Food Engineer learning programming.<br>
+🖥️ Currently working on *Sign-up form*<br>
+📘 And learning with *The Oding Project | Google IT Support Professional*<br>
 ⌨️ Ask me about *Web Developing, Language Learning*
 
 <h7 align="left">Connect with me: 📧 ksjm88@gmail.com</h7>
