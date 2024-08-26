@@ -6,7 +6,7 @@
 <hr>
 👤 A Food Engineer learning programming.<br>
 🖥️ Currently working on Sign-up form.<br>
-📘 And learning with The Oding Project | Google IT Support Professional.<br>
+📘 And learning with The Odin Project | Google IT Support Professional.<br>
 ⌨️ Ask me about Web Developing, Language Learning.
 
 <h4 align="left">Connect with me: 📧 ksjm88@gmail.com</h4>
