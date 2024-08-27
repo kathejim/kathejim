@@ -4,10 +4,13 @@
 
 <h4 align="center" style="font-family: 'roboto';">I'm Kathe 👋</h4>
 <hr>
-👤 A Food Engineer learning programming.<br>
+👤 Engineer learning programming.<br>
 🖥️ Currently working on Sign-up form.<br>
 📘 And learning with The Odin Project | Google IT Support Professional.<br>
-⌨️ Ask me about Web Developing, Language Learning.
+⌨️ Ask me about Web Developing.<br>
+💡 I want to create an awesome Language Learning Tool for 🇩🇪.<br>
+🧠 I enjoy learning new stuff everyday!<br>
+
 
 <h4 align="left">Connect with me: 📧 ksjm88@gmail.com</h4>
 
