@@ -4,7 +4,7 @@
 
 <h4 align="center" style="font-family: 'roboto';">I'm Kathe 👋</h4>
 <hr>
-👤 Engineer learning programming.<br>
+👤 Engineer enjoying programming.<br>
 🖥️ Currently working on Sign-up form.<br>
 📘 And learning with The Odin Project | Google IT Support Professional.<br>
 ⌨️ Ask me about Web Developing.<br>
